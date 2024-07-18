@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I`m Andrés Tavares Tena :)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andy-TAbs&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 **Andy-TAbs/Andy-TAbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
