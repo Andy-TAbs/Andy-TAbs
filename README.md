@@ -2,7 +2,9 @@
 
 I'm currently a Student, learning Next.JS, React, Node.JS, Python and Microsoft Azure :)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andy-TAbs&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy-TAbs)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirabelak&show_icons=true&locale=en&layout=compact" alt="kirabelak" /></p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Andy-TAbs" alt="Andy-TAbs" /></a> </p>
 <!--
 **Andy-TAbs/Andy-TAbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
