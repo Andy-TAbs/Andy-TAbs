@@ -3,7 +3,7 @@
 I'm currently a Student, learning Next.JS, React, Node.JS, Python and Microsoft Azure :)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andy-TAbs&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirabelak&show_icons=true&locale=en&layout=compact" alt="kirabelak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andy-tabs&show_icons=true&locale=en&layout=compact" alt="Andy-TAbs" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Andy-TAbs" alt="Andy-TAbs" /></a> </p>
 <!--
