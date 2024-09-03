@@ -6,6 +6,8 @@ I'm currently a Student, learning Next.JS, React, Node.JS, Python and Microsoft 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andy-tabs&show_icons=true&locale=en&layout=compact" alt="Andy-TAbs" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Andy-TAbs" alt="Andy-TAbs" /></a> </p>
+
+<img src="https://komarev.com/ghpvc/?username=Andy-TAbs&color=brightgreen&style=flat" alt="Profile Views">
 <!--
 **Andy-TAbs/Andy-TAbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
