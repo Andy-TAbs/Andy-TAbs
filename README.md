@@ -7,6 +7,8 @@ I'm currently a Student, learning Next.JS, React, Node.JS, Python and Microsoft 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Andy-TAbs" alt="Andy-TAbs" /></a> </p>
 
+ <a href="https://github.com/Andy-TAbs"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andy-TAbs&theme=tokyonight"/>
+
 <img src="https://komarev.com/ghpvc/?username=Andy-TAbs&color=brightgreen&style=flat" alt="Profile Views">
 <!--
 **Andy-TAbs/Andy-TAbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
